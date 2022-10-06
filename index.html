@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Алиса</title>
+</head>
+<body>
+
+	<h1>Имя Алиса</h1>
+
+<h4>Алиса-независимая и сильная женщина</h4>
+
+<img src="alisa.jpeg" alt style=''
+width 400px
+
+height 400px>
+
+</body>
+</html>
